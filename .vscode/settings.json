@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar", "/Users/hadassah/Downloads/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar"],
+  "files.exclude": { "**/.idea": true, "**/*.iml": true, "out": true, "bin": true, "**/.DS_Store": true }
+}
